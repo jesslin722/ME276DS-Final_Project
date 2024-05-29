@@ -1,0 +1,10 @@
+otter-grader==5.1.3
+numpy
+matplotlib
+scipy
+tensorflow
+keras
+scikit-learn
+ipympl
+seaborn
+pandas
